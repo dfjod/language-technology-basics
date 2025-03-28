@@ -19,10 +19,10 @@ LEXICON Nouns
     servis N1dekl ;
     server N2dekl ;
     tīmek N2dekl ;
-    skrūvgrieznis N2dekl ;
-    maģija N4dekl ;
-    implementācija N4dekl ;
-    antena N4dekl ;
+    skrūvgriez N2dekl ;
+    maģij N4dekl ;
+    implementācij N4dekl ;
+    anten N4dekl ;
 
 ! Define 1st declension paradigm
 LEXICON N1dekl
