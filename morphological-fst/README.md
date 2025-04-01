@@ -6,7 +6,7 @@
 
 Gramatika modelē latviešu valodas lietvārdu dzimtas un locījumu galotnes. Leksikonā tiek definētas šādas galvenās komponentes:
 
-- **Sākuma stāvoklis:** šeit tiek norādīti visi ievades vārdi un to ceļš uz atbilstošajām paradigmas klasēm (piemēram, 1Dekl, 2Dekl, utt.).
+- **Sākuma stāvoklis:** šeit tiek norādīti visi ievades vārdi un to ceļš uz atbilstošajām paradigmas klasēm (1Dekl, 2Dekl, 4Dekl un 6Dekl).
 - **Paradigmas:** katrai deklināciju klasei definētas atbilstošās locījuma galotnes (vienskaitlis, daudzskaitlis, nominatīvs, ģenitīvs utt.).
 - **Galotnes:** definētas kā atsevišķas vienības, kuras tiek pievienotas vārda saknei, lai izveidotu morfoloģiskās formas.
 
