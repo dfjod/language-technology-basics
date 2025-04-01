@@ -23,6 +23,7 @@ LEXICON Nouns
     maģij N4dekl ;
     implementācij N4dekl ;
     anten N4dekl ;
+    ziv N6dekl ;
 
 ! Define 1st declension paradigm
 LEXICON N1dekl
@@ -62,3 +63,16 @@ LEXICON N4dekl
     +N+Pl+Dat:^ām # ;
     +N+Pl+Acc:^as # ;
     +N+Pl+Loc:^ās # ;
+
+! Define 6th declension paradigm
+LEXICON N6dekl
+    +N+Sg+Nom:^s  # ;
+    +N+Sg+Gen:^s # ;
+    +N+Sg+Dat:^ij # ;
+    +N+Sg+Acc:^i # ;
+    +N+Sg+Loc:^ī # ;
+    +N+Pl+Nom:^is  # ;
+    +N+Pl+Gen:^u  # ;
+    +N+Pl+Dat:^īm # ;
+    +N+Pl+Acc:^is # ;
+    +N+Pl+Loc:^īs # ;
